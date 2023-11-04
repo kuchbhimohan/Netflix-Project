@@ -5,6 +5,10 @@ Netflix Inc. is an American media company based in Los Gatos, California. Founde
 
 This dataset consists of tv shows and movies available on Netflix. The dataset is collected from Flexible which is a third-party Netflix search engine. Netflix movies and TV shows clustering is a data analysis and machine learning technique that Netflix uses to group its content into similar categories. This technique involves analyzing the various characteristics of each title, such as genre, cast, and plot, and using algorithms to identify patterns and similarities. In essence, it's a set of algorithms using machine learning to analyze user data and movie ratings. To make it more effective, Netflix has set up 1,300 recommendation clusters based on users viewing preferences. Netflix's target market is young, tech-savvy users and anyone with digital connectivity. The audience of Netflix is from diverse age groups and demographics. However, most of the audience are teenagers, college-goers, entrepreneurs, working professionals, etc. Netflix's target consumers are divided into segments based on demographics, behavioural intents, and psychographic segmentation. Like most licensing agreements, the deal is structured in a traditional form, whereby Netflix pays for each film determined by rate cards on a sliding scale by each title's domestic or worldwide box office receipts. Netflix uses machine learning and algorithms to help break viewers' preconceived notions and find shows that they might not have initially chosen. To do this, it looks at nuanced threads within the content, rather than relying on broad genres to make its predictions.
 
+![image](https://github.com/kuchbhimohan/Netflix-Project/blob/main/netflix.jpg)
+
+
+
 
 
 
@@ -79,6 +83,9 @@ Project Work flow:
 - Implementing different clustering methods,
 - Conclusion,
 - Future Work.
+
+![image](https://github.com/kuchbhimohan/Netflix-Project/blob/main/netflix2.jpg)
+
 
 Conclusion:
 
